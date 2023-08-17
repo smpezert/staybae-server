@@ -2,6 +2,8 @@
   {
     "city": "Manchester",
     "country": "England",
+    "lat": 53.474096,
+    "lng": -2.251063,
     "description": "An apartment looking over Manchester",
     "caption": "A great apartment looking over Deansgate",
     "rating": 4.5,
@@ -23,6 +25,8 @@
   {
     "city": "Milan",
     "country": "Italy",
+    "lat": 45.464194,
+    "lng": 9.189635,
     "description": "Double room in lovely apartment",
     "caption": "Stay with Valentina",
     "rating": 4.4,
@@ -44,6 +48,8 @@
   {
     "city": "Ottawa",
     "country": "Canada",
+    "lat": 45.420878,
+    "lng": -75.690111,
     "description": "Stay in the wild in this cabin",
     "caption": "A break away from the city",
     "rating": 4.8,
@@ -65,6 +71,8 @@
   {
     "city": "London",
     "country": "UK",
+    "lat": 51.507336,
+    "lng": -0.12765,
     "description": "Stunning one bed apartment",
     "caption": "Be close to the city with loads of things to do",
     "rating": 4.3,
@@ -86,6 +94,8 @@
   {
     "city": "Los Angeles, California",
     "country": "USA",
+    "lat": 34.053691,
+    "lng": -118.242766,
     "description": "Two bedroom house in LA",
     "caption": "Live with the stars",
     "rating": 4.2,
@@ -107,6 +117,8 @@
   {
     "city": "Paris",
     "country": "France",
+    "lat": 48.853495,
+    "lng": 2.348391,
     "description": "A lovely apartment in the love capital",
     "caption": "Have a romantic break in my little hideaway",
     "rating": 4.4,
@@ -128,6 +140,8 @@
   {
     "city": "Mexixo City",
     "country": "Mexico",
+    "lat": 19.43263,
+    "lng": -99.133178,
     "description": "Room in apartment, traditional neighbourhood",
     "caption": "Sit back and relax with tacos",
     "rating": 4.2,
@@ -149,6 +163,8 @@
   {
     "city": "Edinburgh",
     "country": "Scotland",
+    "lat": 55.953346,
+    "lng": -3.188375,
     "description": "A nice get away surrounded by culture",
     "caption": "Capture some of Scotland's finest heritage",
     "rating": 3.8,
@@ -170,6 +186,8 @@
   {
     "city": "Copacabana",
     "country": "Brazil",
+    "lat": -22.971974,
+    "lng": -43.1843,
     "description": "Two bed apartment close to the beach",
     "caption": "A bit of samba? Why not",
     "rating": 5.0,

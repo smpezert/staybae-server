@@ -4,7 +4,7 @@ export default interface Property extends Document {
   city: string;
   country: string;
   region: string;
-  lon: number;
+  lng: number;
   lat: number;
   description: string;
   caption: string;
