@@ -4,7 +4,7 @@ const propertyStructure = {
   city: Joi.string().required(),
   country: Joi.string().required(),
   region: Joi.string().required(),
-  lon: Joi.number().required(),
+  lng: Joi.number().required(),
   lat: Joi.number().required(),
   description: Joi.string().required(),
   caption: Joi.string().required(),
