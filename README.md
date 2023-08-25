@@ -71,3 +71,5 @@ The API this server exposes is
 | --- | --- | --- |
 | POST | /api/properties | Create a new property |
 | PUT | /api/properties | Update a property's details |
+
+To enforce the properties into the client-side application, you need to sent the POST and GET requests that are on the `request.http` file.
