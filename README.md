@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application acts as the server for the Staybae application. It is built using Express JS using Typescript.
+This codebase acts as the server for the Staybae application. It is built using Express JS using Typescript.
 
 ## Dependencies
 
@@ -43,7 +43,13 @@ Required plugins:
 - ESLint
 - Prettier
 
-## Starting the server
+## Server
+
+To run the server, you firstly need to download the dependencies from the root folder by running
+
+```
+npm install
+```
 
 To start the server, you can run
 
