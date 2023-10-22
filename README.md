@@ -2,7 +2,7 @@
 
 ## Overview
 
-This codebase acts as the server for the Staybae application. It is built using Express JS using Typescript.
+This codebase acts as the server for the Staybae application. It is built using Express JS using Typescript. The API runs online on this link https://staybae-server-sb.onrender.com.
 
 ## Dependencies
 
@@ -42,6 +42,18 @@ Required plugins:
 
 - ESLint
 - Prettier
+
+## Environment variables
+
+You need to create an .env file and store the below variables:
+
+```
+PORT=8080
+MONGO_PATH=<your mongo path>staybae?authSource=admin&retryWrites=true&w=majority
+MONG_USER=<your mongo username>
+MONGO_PASSWORD=<your mongo password>
+```
+Note: If you are using docker the environment variables will be different.
 
 ## Server
 
