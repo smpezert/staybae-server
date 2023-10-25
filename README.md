@@ -2,7 +2,7 @@
 
 ## Overview
 
-This codebase acts as the server for the Staybae application. It is built using Express JS using Typescript. The API runs online on this link https://staybae-server-sb.onrender.com.
+This codebase acts as the server for the Staybae application. It is built using Express JS using Typescript. The API runs online on this link https://staybae-server-sb.onrender.com/api/properties.
 
 ## Dependencies
 
